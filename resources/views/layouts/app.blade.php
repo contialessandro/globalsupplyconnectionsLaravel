@@ -29,7 +29,7 @@
     <link href="frameworks/owl/assets/owl.theme.css" type="text/css" rel="stylesheet">
     <link href="frameworks/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
     <link href="frameworks/font-awesome-animation/font-awesome-animation.min.css" type="text/css" rel="stylesheet">
-    
+    <link rel="shortcut icon" href="img/logo/ico.ico">
     <link href="css/styles.css" type="text/css" rel="stylesheet" id="switcher-target">
 
     <link href="css/alizarin.css" type="text/css" rel="stylesheet">

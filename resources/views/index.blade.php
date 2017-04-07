@@ -38,4 +38,201 @@
         </div>
         <!--=== Slider Ends ===-->
     </section>
+    <section>
+        <div id="services">
+            <div class="container pos-r">
+                <div class="vartical-line"></div>
+                <div class="horizontal-line"></div>
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <!--=== section main heading starts ===-->
+                        <div class="heading-text">
+                            <h2>our services </h2>
+                            <p>We provide quality, powerful and best services.</p>
+                            <div class="separator"></div>
+                        </div>
+                        <!--=== section main heading starts ===-->
+                    </div>
+                </div>
+                <div class="m-t-20 m-b-80">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 1 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-eye font-size-60 "></i>
+                                        <h3 class="heading-sm">creative design</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 1 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 2 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-cup font-size-60 "></i>
+                                        <h3 class="heading-sm">ux expert</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 2 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 3 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-case font-size-60 "></i>
+                                        <h3 class="heading-sm">graphics design</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 3 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 4 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-keyboard font-size-60"></i>
+                                        <h3 class="heading-sm">web development</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 4 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 5 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-share font-size-60 "></i>
+                                        <h3 class="heading-sm">Parallax Support</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 5 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 6 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-photo font-size-60"></i>
+                                        <h3 class="heading-sm">web design</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 6 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 7 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-video font-size-60"></i>
+                                        <h3 class="heading-sm">video graphic</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 7 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 8 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-world font-size-60 "></i>
+                                        <h3 class="heading-sm">seo expert</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 8 ends ===-->
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <!--=== services icon box 9 srarts ===-->
+                            <div class="m-t-40">
+                                <div class="services-icon-bx">
+                                    <div class="text-center">
+                                        <i class="icon-basic-joypad font-size-60 "></i>
+                                        <h3 class="heading-sm">game development</h3>
+                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=== services icon box 9 ends ===-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--=== Contact Us Style 2 Starts ===-->
+    <div class="row m-v-80">
+        <div class="col-md-8">
+            <div class="row">
+                <!--== contact us form start ===-->
+                <form role="form">
+                    <div class="form-group col-md-6">
+                        <label for="exampleInputEmail2" class="sr-only">Name</label>
+                        <input type="text" placeHolder="Name" required id="exampleInputEmail2" class="form-control input-lg">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="exampleInputEmail2" class="sr-only">Email</label>
+                        <input type="email" placeHolder="Email required" id="exampleInputEmail2" class="form-control input-lg">
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label for="exampleInputEmail2" class="sr-only">Subject</label>
+                        <input type="email" placeHolder="Subject" id="exampleInputEmail2" class="form-control input-lg">
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label for="exampleInputMessage2" required id="exampleInputMessage2" class="sr-only">Message</label>
+                        <textarea placeHolder="Message" rows="3" class="form-control input-lg"></textarea>
+                        <button type="submit" class="btn btn-c-primary inverse btn-lg m-t-20">Submit Message</button>
+                    </div>
+                </form>
+                <!--== contact us form ends ===-->
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="clr-dark-xl">
+                <h4 class="font-wight-600 font-size-24"> Additional Info</h4>
+                <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.
+                </p>
+            </div>
+            <!-- Company address starts ===-->
+            <address>
+                                <span>
+                                    <i class="glyphicon glyphicon-home m-t-10 m-r-10"></i>&nbsp;ZS Plaza, Gilgit-Baltistan
+                                    <br>
+                                </span>
+                <span>
+                                    <i class="glyphicon glyphicon-earphone m-v-15 m-r-10"></i>&nbsp; 92 (05811) 111111
+                                    <br>
+                                </span>
+                <span>
+                                    <i class="glyphicon glyphicon-envelope m-r-10"></i>&nbsp; waseembarcha1993@gmail.com
+                                    <br>
+                                </span>
+                <span>
+                                    <i class="glyphicon glyphicon-globe m-v-15 m-r-10"></i>
+                                    <a href="#" class="black hover-primary">&nbsp; www.example.com</a>
+                                </span>
+            </address>
+            <!-- Company address ends ===-->
+        </div>
+    </div>
+    <!--=== Contact Us Style 2 Ends ===-->
 @endsection
