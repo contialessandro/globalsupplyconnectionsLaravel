@@ -81,30 +81,7 @@
     </div>
 </footer>
 <!--=== Footer Ends ===-->
-<!-- loader -->
-<div id="loading" class="animation-parent">
-    <div class="table">
-        <div class="table-middle-row">
-            <div class="loader">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- === START : SCRIPT FILES === -->
 <!--=== jquery included===-->
 <script type="text/javascript" src="frameworks/jquery/jquery.js"></script>

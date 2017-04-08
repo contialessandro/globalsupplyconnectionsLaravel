@@ -22,13 +22,13 @@
                     <div class="collapse navbar-collapse navbar-main pull-right">
                         <ul class="nav navbar-nav">
                             <li>
-                                <a href="#slider" class="smooth-scroll">Home</a>
+                                <a href="/" class="smooth-scroll">Home</a>
                             </li>
                             <li>
-                                <a href="#us" class="smooth-scroll">About</a>
+                                <a href="#" class="smooth-scroll">About</a>
                             </li>
                             <li>
-                                <a href="#contact" class="smooth-scroll">contact</a>
+                                <a href="contact" class="smooth-scroll">contact</a>
                             </li>
                             </li>
                         </ul>
