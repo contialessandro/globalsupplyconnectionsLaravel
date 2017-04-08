@@ -61,7 +61,7 @@
                             <div class="m-t-40">
                                 <div class="services-icon-bx">
                                     <div class="text-center">
-                                        <i class="icon-basic-eye font-size-60 "></i>
+                                        <i class="icon-basic-cup font-size-60 icon-glass icon-basic-eye"></i>
                                         <h3 class="heading-sm">creative design</h3>
                                         <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
                                     </div>
@@ -94,84 +94,6 @@
                                 </div>
                             </div>
                             <!--=== services icon box 3 ends ===-->
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <!--=== services icon box 4 srarts ===-->
-                            <div class="m-t-40">
-                                <div class="services-icon-bx">
-                                    <div class="text-center">
-                                        <i class="icon-basic-keyboard font-size-60"></i>
-                                        <h3 class="heading-sm">web development</h3>
-                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--=== services icon box 4 ends ===-->
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <!--=== services icon box 5 srarts ===-->
-                            <div class="m-t-40">
-                                <div class="services-icon-bx">
-                                    <div class="text-center">
-                                        <i class="icon-basic-share font-size-60 "></i>
-                                        <h3 class="heading-sm">Parallax Support</h3>
-                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--=== services icon box 5 ends ===-->
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <!--=== services icon box 6 srarts ===-->
-                            <div class="m-t-40">
-                                <div class="services-icon-bx">
-                                    <div class="text-center">
-                                        <i class="icon-basic-photo font-size-60"></i>
-                                        <h3 class="heading-sm">web design</h3>
-                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--=== services icon box 6 ends ===-->
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <!--=== services icon box 7 srarts ===-->
-                            <div class="m-t-40">
-                                <div class="services-icon-bx">
-                                    <div class="text-center">
-                                        <i class="icon-basic-video font-size-60"></i>
-                                        <h3 class="heading-sm">video graphic</h3>
-                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--=== services icon box 7 ends ===-->
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <!--=== services icon box 8 srarts ===-->
-                            <div class="m-t-40">
-                                <div class="services-icon-bx">
-                                    <div class="text-center">
-                                        <i class="icon-basic-world font-size-60 "></i>
-                                        <h3 class="heading-sm">seo expert</h3>
-                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--=== services icon box 8 ends ===-->
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <!--=== services icon box 9 srarts ===-->
-                            <div class="m-t-40">
-                                <div class="services-icon-bx">
-                                    <div class="text-center">
-                                        <i class="icon-basic-joypad font-size-60 "></i>
-                                        <h3 class="heading-sm">game development</h3>
-                                        <p class="m-t-20 clr-dark-lg">lorem ipsum dolor simit di amit etcetera and goal the love is easy and soal the love is easy and soal.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--=== services icon box 9 ends ===-->
                         </div>
                     </div>
                 </div>
