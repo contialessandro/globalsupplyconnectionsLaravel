@@ -222,7 +222,7 @@ function scrollUp () {
 //text typer
 function typed () {
   $('.type-writer .type-here').typed({
-        strings: ["cosmic","awesome", "creative","cosmic","elegant", "smart" ],
+       /* strings: ["cosmic","awesome", "creative","cosmic","elegant", "smart" ],*/
         typeSpeed: 70,
         backDelay: 2000,
         loop: true,

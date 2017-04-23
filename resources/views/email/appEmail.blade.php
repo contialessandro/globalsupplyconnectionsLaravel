@@ -45,11 +45,11 @@
 </head>
 <body>
 
-        @include('layouts.nav')
+
 
         @yield('content')
 
-        @include('layouts.footer')
+        @include('email.footerEmail')
     <!-- Scripts
     <script src="{{ asset('js/app.js') }}"></script>-->
 

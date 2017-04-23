@@ -15,17 +15,22 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/about', function () {
+Route::get('about', function () {
     return view('about');
 });
-
-Route::get('/contact', function () {
-    return view('contact');
+Route::get('email', function () {
+    return view('email.contactEmail');
 });
+Route::post('contact_sent','ContactController@store');
+Route::get('contact','ContactController@create');
 
+Route::get('home', 'HomeController@index');
 
-Route::get('/home', 'HomeController@index');
+Route::get('about', 'AboutController@about');
+Route::get('aboutIbm', 'AboutController@aboutIbm');
+Route::get('aboutLenovopack', 'AboutController@aboutLenovoPack');
+Route::get('aboutNip', 'AboutController@aboutNip');
+Route::get('aboutContractmanagement', 'AboutController@aboutContractManagement');
 
 Auth::routes();
-
 

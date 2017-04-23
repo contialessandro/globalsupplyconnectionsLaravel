@@ -16,27 +16,11 @@
                 <div class="row m-v-80">
                     <div class="col-md-8">
                         <div class="row">
+
                             <!--== contact us form start ===-->
-                            <form role="form">
-                                <div class="form-group col-md-6">
-                                    <label for="exampleInputEmail2" class="sr-only">Name</label>
-                                    <input type="text" placeHolder="Name" required id="exampleInputEmail2" class="form-control input-lg">
-                                </div>
-                                <div class="form-group col-md-6">
-                                    <label for="exampleInputCompany" class="sr-only">Company Name</label>
-                                    <input type="text" placeHolder="Company Name" id="exampleInputCompany" class="form-control input-lg">
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <label for="exampleInputEmail2" class="sr-only">Email</label>
-                                    <input type="email" placeHolder="Email" id="exampleInputEmail2" class="form-control input-lg">
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <label for="exampleInputEmail2" class="sr-only">Subject</label>
-                                    <input type="email" placeHolder="Subject" id="exampleInputEmail2" class="form-control input-lg">
-                                </div>
-                                <div class="form-group col-md-12">
-                                    <label for="exampleInputMessage2" required id="exampleInputMessage2" class="sr-only">Message</label>
-                                    <textarea placeHolder="Message" rows="3" class="form-control input-lg"></textarea>
+                            <form role="form" action="contact_sent" method="post">
+                                {{ csrf_field() }}
+                                @include('layouts.contactErrorForm')
                                     <button type="submit" class="btn btn-c-primary inverse btn-lg m-t-20">Submit Message</button>
                                 </div>
                             </form>
@@ -53,7 +37,7 @@
                         <!-- Company address starts ===-->
                         <address>
                                 <span>
-                                    <i class="glyphicon glyphicon-home m-t-10 m-r-10"></i>&nbsp;ZS Plaza, Gilgit-Baltistan
+                                    <i class="glyphicon glyphicon-home m-t-10 m-r-10"></i>&nbsp;Oak Park,Cookridge, Leeds
                                     <br>
                                 </span>
                             <span>
@@ -61,12 +45,12 @@
                                     <br>
                                 </span>
                             <span>
-                                    <i class="glyphicon glyphicon-envelope m-r-10"></i>&nbsp; waseembarcha1993@gmail.com
+                                    <i class="glyphicon glyphicon-envelope m-r-10"></i>&nbsp; contactus@globalsupplyconnections.co.uk
                                     <br>
                                 </span>
                             <span>
                                     <i class="glyphicon glyphicon-globe m-v-15 m-r-10"></i>
-                                    <a href="#" class="black hover-primary">&nbsp; www.example.com</a>
+                                    <a href="#" class="black hover-primary">&nbsp; www.globalsupplyconnections.co.uk</a>
                                 </span>
                         </address>
                         <!-- Company address ends ===-->
@@ -75,5 +59,17 @@
                 <!--=== Contact Us Style 2 Ends ===-->
             </div>
         </div>
+        <script>
+            /*$( "#form" ).delay( 1000 );
+                $("#form.span").delay( 1000 ).removeClass("form-control-feedback");
+                $("#form.div").delay(1000).removeClass(" has-error has-feedback");*/
+                //$("#rowthree.two").removeClass("pageLoad");
+            window.setTimeout(function() {
+                $(".alert").fadeTo(500, 0).slideUp(500, function(){
+                    $(this).remove();
+                });
+            }, 8000);
+
+        </script>
     </section>
 @endsection

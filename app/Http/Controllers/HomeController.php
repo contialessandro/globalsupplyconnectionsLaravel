@@ -25,4 +25,14 @@ class HomeController extends Controller
     {
         return view('welcome');
     }
+
+    public function indexContact()
+    {
+        return view('welcomeContact');
+    }
+
+    public function indexAbout()
+    {
+        return view('welcomeContact');
+    }
 }
