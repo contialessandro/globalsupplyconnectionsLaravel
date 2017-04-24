@@ -34,7 +34,7 @@
     <link href="css/settings.css" type="text/css" rel="stylesheet">
     <!--<link href="css/alizarin.css" type="text/css" rel="stylesheet">-->
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="/css/app.css" rel="stylesheet">
 
     <!-- Scripts -->
     <script>
