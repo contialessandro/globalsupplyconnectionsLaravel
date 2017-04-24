@@ -48,14 +48,14 @@
 @if($errors->has('subject'))
     <div class="form-group col-md-6 has-error has-feedback">
         <label for="exampleInputEmail2" class="sr-only">Subject</label>
-        <input type="text" placeHolder="Subject" name="subjects" id="exampleInputEmail2" class="form-control input-lg">
+        <input type="email" placeHolder="Subject" name="subjects" id="exampleInputEmail2" class="form-control input-lg">
         <span class="glyphicon glyphicon-remove form-control-feedback"></span>
         <div class="control-label">{{$errors->first('subject')}}</div>
     </div>
 @else
     <div class="form-group col-md-6">
         <label for="exampleInputEmail2" class="sr-only">Subject</label>
-        <input type="text" placeHolder="Subject" name="subjects" id="exampleInputEmail2" class="form-control input-lg">
+        <input type="email" placeHolder="Subject" name="subjects" id="exampleInputEmail2" class="form-control input-lg">
     </div>
 @endif
 @if($errors->has('messages'))
