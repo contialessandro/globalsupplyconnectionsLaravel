@@ -20,11 +20,20 @@ class ContactController extends Controller
             'name' => 'required',
             'company' => 'required',
             'email' => 'required|email',
-            'subject' => 'required',
-            'message' => 'required|max:5000',
+            'subjects' => 'required',
+            'subject' => 'required|max:5000',
         ]);
-        session()->flash('message', 'Thank You for contacting us, we will be in touch shortly');
-        \Mail::to('contialessandro@hotmail.it')->send(new ContactEmail);
+        session()->flash('messages', 'Thank You for contacting us, we will be in touch shortly');
+        $subject = $request['subject'];
+
+        \Mail::to(array('alessandro.conti@globalsupplyconnections.co.uk'))->send(new ContactEmail(
+            $request['name'],
+            $request['company'],
+            $request['email'],
+            $request['subjects'],
+            $subject
+
+        ));
 
         return redirect()->back();
     }
