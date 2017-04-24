@@ -65,9 +65,9 @@
         <span class="glyphicon glyphicon-remove form-control-feedback"></span>
         <div class="control-label">{{$errors->first('messages')}}</div>
 
-@else
-    <div class="form-group col-md-12">
-        <label for="exampleInputMessage2"  id="exampleInputMessage2" class="sr-only">Message</label>
-        <textarea placeHolder="Message" type="text" rows="3"  name="subject" class="form-control input-lg"></textarea>
+        @else
+            <div class="form-group col-md-12">
+                <label for="exampleInputMessage2"  id="exampleInputMessage2" class="sr-only">Message</label>
+                <textarea placeHolder="Message" type="text" rows="3"  name="subject" class="form-control input-lg"></textarea>
 
 @endif
